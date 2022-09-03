@@ -1,4 +1,4 @@
 # Password-GeneratorJS
 challenge 3 random password generator using javascript
 
-![Screenshot of homepage](Password-GeneratorJS\Assets\03-javascript-homewrok-screenshot.png?raw=true "Homepage Screenshot")
+![03-javascript-homewrok-screenshot](https://user-images.githubusercontent.com/105891869/188283844-22c0b108-f123-4ca7-af33-4309ab9bf318.png)
