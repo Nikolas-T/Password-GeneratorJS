@@ -12,7 +12,7 @@ var generateBtn = document.querySelector("#generate")
 // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
 
-
+// popup that user interacts with
 
 function popup() {
   choice = [];
@@ -38,7 +38,7 @@ function popup() {
   return true;
 }
 
-// Write password to the #password input
+// Writes password to the #password input
 function writePassword() {
   var usablePassword = popup()
   var passwordText = document.querySelector("#password");
@@ -61,6 +61,3 @@ function generatePassword() {
   return password;
 }
 
-
-
-//this 
